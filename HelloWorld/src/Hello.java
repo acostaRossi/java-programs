@@ -1,4 +1,3 @@
-package com.didattica;
 
 public class Hello {
 
